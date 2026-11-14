@@ -1,0 +1,23 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# Mnemosyne stores conversations, memories, and imported documents here.
+data/*
+!data/.gitkeep
+
+*.db
+*.sqlite
+*.sqlite3
+
+logs/
+*.log
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
