@@ -136,4 +136,4 @@ Users should still review files before committing and should never remove the pr
 
 ## Project status
 
-Mnemosyne is an active personal learning project. The current development build is version **0.5A** and focuses on local persistence, transparent retrieval, document-grounded responses, and privacy-conscious desktop design. The application source is pending a final public-release review.
+Mnemosyne is an active personal learning project. The current public source represents version **0.5A** and focuses on local persistence, transparent retrieval, document-grounded responses, and privacy-conscious desktop design.
